@@ -5,11 +5,11 @@
 body {
   font-family: "Open Sans", serif;
 }
-/* @media only screen and (max-width: 8000px) {
+@media only screen and (max-width: 8000px) {
   body {
       background-color: lightblue;
-  } */
-/* } */
+  } 
+ }
 .wrapper {
   background: linear-gradient(to right, #e67e22, #e74c3c);
   height: 100vh;
